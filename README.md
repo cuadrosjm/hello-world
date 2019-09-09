@@ -1,2 +1,3 @@
 # hello-world
-This is our Hello World Repo
+This is my first change on my new Branch
+Happy coding in Node and React!
